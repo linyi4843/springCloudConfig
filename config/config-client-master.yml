@@ -2,4 +2,4 @@ server:
   port: 8881
 
 foo:
-  test: 6666
+  test: 天黑
